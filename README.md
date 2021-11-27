@@ -1,10 +1,14 @@
 # devSecOpsTasks
 DevSecOps training tasks
+
 #Install
+
 `apt-get install redis`
 
 `pip3 install -r requirements.txt`
+
 #Usage
+
 **Task 1**
 
 Sniff packets on any port you want to
